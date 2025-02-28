@@ -3,7 +3,6 @@
 
 #### My name's Luisa, I'm 22 and I love to read books, listen to music and play video games!
 
-
 ## 👩‍🎓 I'm studying Information Systems at PUC Campinas!
 
 
