@@ -1,4 +1,3 @@
-## Hello world! 👋 <img src="https://github.com/user-attachments/assets/f6a01b19-0e69-4282-995c-8280e0e6502e" alt="image" align="right" width="200"/>
 ### Welcome to my Github profile! 
 
 #### I'm Luisa!
