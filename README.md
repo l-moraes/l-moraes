@@ -1,29 +1,23 @@
-### Welcome to my Github profile! 
-
-#### I'm Luisa!
-
-## 👩‍🎓 I'm studying Information Systems at PUC Campinas!
-
-
-## 🔭 I’m currently working as a Full Stack Jr Developer
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-## 🌱 I’m currently learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
-## 💡 I'm familiar with
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+<div align="center">
           
-## 📫 You can find me on linkedin! 
-<a href="https://www.linkedin.com/in/maluisa-moraes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FWahEge-s7NUAAAAC%2Fcoding-gif.gif&f=1&nofb=1&ipt=a8db971a1e064b3622db8995076711c5bf3b3ab94bdeee9801df3c0bedb11d4f)](https://rishavchanda.io)
 
-
-          
-          
-<div>
-<a href="https://github.com/lmraes">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-moraes&layout=compact&langs_count=7&theme=dracula"/>
-<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lmraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 </div>
+
+<h1 align="center">Hi 👋, I'm Luisa</h1>
+
+- 👩🏻‍💻 I’m currently working with **C# and .NET**
+
+- 🌱 I'm learning **React, Python and Data Science**
+
+- 👨‍💻 All of my projects are available at [https://github.com/l-moraes?tab=repositories](https://github.com/l-moraes?tab=repositories) 
+
+- ⚡ Fun fact: **Book worm and always listening to music**
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/maluisa-moraes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p align="left">
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scesca&show_icons=true&locale=en&layout=compact" alt="scesca" /></p>
+          
+
