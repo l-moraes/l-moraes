@@ -18,6 +18,7 @@
 <a href="https://www.linkedin.com/in/maluisa-moraes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <p align="left">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scesca&show_icons=true&locale=en&layout=compact" alt="scesca" /></p>
-          
-
+<div>
+<a href="https://github.com/lmraes">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-moraes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
